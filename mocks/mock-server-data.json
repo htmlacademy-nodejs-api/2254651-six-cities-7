@@ -1,0 +1,48 @@
+{
+  "api": {
+    "titles": [
+      "1 комнатная квартира",
+      "Дворец",
+      "Дом на дереве",
+      "Шалаш",
+      "Вигвам"
+    ],
+    "descriptions": [
+      "Прекрасная 1 комнатная квартира с видимо на улицу красных фонарей",
+      "Великолепный, огромный дворец с комнтатой для грязи",
+      "Домик на дереве есть душ из ведра, которое наполняется после дождей",
+      "Просторный шалаш 6 квадратных метров без удобств",
+      "Сдам вигвам без посредников"
+    ],
+    "previewImages": [
+      "flat.jpg",
+      "castle.jpg",
+      "tree-house.jpg",
+      "hut.jpg",
+      "wigwam.jpg"
+    ],
+    "images": [
+      ["/flat1.jpg", "/flat2.jpg"],
+      ["castle1.jpg", "castle2.jpg"],
+      ["tree-house1.jpg", "tree-house2.jpg", "tree-house3.jpg"],
+      ["hut1.jpg"],
+      ["wigwam1.jpg", "wigwam2.jpg", "wigwam3.jpg", "wigwam4.jpg"]
+    ],
+    "usersNames": ["Иван", "Олег", "Пьер", "Роланд", "Виниамин"],
+    "usersEmails": [
+      "snow@pisem.local",
+      "president@dka.local",
+      "fish@big.local",
+      "test@pisem.local",
+      "freedom@pisem.local"
+    ],
+    "usersAvatars": [
+      "user.jpg",
+      "photo.jpg",
+      "awesome-avatar.jpg",
+      "roland.jpg",
+      "smite.jpg"
+    ],
+    "usersPasswords": ["qwerty", "backto2007", "caesar", "blazer", "password"]
+  }
+}

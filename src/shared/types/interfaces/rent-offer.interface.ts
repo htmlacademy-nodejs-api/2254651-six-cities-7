@@ -1,7 +1,7 @@
-import { CoordinatesType } from './coordinates.type.js';
-import { AmenitiesEnum } from './amenities.enum.js';
-import { CitiesEnum } from './cities.enum.js';
-import { HousingTypeEnum } from './housing-type.enum.js';
+import { CoordinatesType } from '../coordinates.type.js';
+import { AmenitiesEnum } from '../enums/amenities.enum.js';
+import { CitiesEnum } from '../enums/cities.enum.js';
+import { HousingTypeEnum } from '../enums/housing-type.enum.js';
 import { User } from './user.interface.js';
 
 export interface RentOffer {
